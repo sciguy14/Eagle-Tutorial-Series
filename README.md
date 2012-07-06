@@ -3,8 +3,8 @@ Jeremy Blum's Eagle CAD Tutorial Series
 These files are meant to accompany Jeremy Blum's Eagle CAD Tutorial Series.  
 These tutorials were sponsored by element14 (http://www.element14.com) with support from CadSoft (http://www.cadsoftusa.com)  
 You can watch these tutorials on youtube or my website:  
->>YouTube				- http://www.youtube.com/playlist?list=PL868B73617C6F6FAD  
->>Jeremy's Website		- http://jeremyblum.com/category/eagle-tutorials/  
+>YouTube				- http://www.youtube.com/playlist?list=PL868B73617C6F6FAD  
+>Jeremy's Website		- http://jeremyblum.com/category/eagle-tutorials/  
 
 Open Source License
 -------------------
@@ -14,9 +14,9 @@ Further information can be found in the LICENSE file.
 Learn More about Eagle
 ----------------------
 If you need help with Eagle or want to learn more, I recommend these resources:  
->>element14 CadSoft Group	- http://www.element-14.com/cadsoft  
->>Eagle Guided Tour			- http://www.cadsoftusa.com/eagle-pcb-design-software/guided-tour/  
->>Sparkfun Eagle Tutorials	- http://www.sparkfun.com/tutorials/108  
+>element14 CadSoft Group	- http://www.element-14.com/cadsoft  
+>Eagle Guided Tour			- http://www.cadsoftusa.com/eagle-pcb-design-software/guided-tour/  
+>Sparkfun Eagle Tutorials	- http://www.sparkfun.com/tutorials/108  
 
 Author Info
 -----------
